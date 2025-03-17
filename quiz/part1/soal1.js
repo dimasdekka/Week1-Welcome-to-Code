@@ -37,6 +37,7 @@
 let nama = "Dhimas";
 let peran = "Ksatria";
 
+console.log("Welcome to Proxytia")
 if (!nama) {
     console.log("Nama wajib diisi!");
 } else if (!peran) {
